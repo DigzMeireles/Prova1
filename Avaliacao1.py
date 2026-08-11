@@ -1,4 +1,5 @@
 #AVALIAÇÃO1 
+#ALUNOS: PEDRO MARQUES E RODRIGO MEIRELES
 def consulta(conta):
   print(f"Seu saldo atual eh de R${conta}")
   
